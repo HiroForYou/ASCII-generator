@@ -1,5 +1,7 @@
 """
-@author: Viet Nguyen <nhviet1009@gmail.com>
+TODOS LOS CRÉDITOS PARA EL AUTOR ORIGINAL:
+
+@author: Viet Nguyen <nhviet1009@gmail.com> 
 """
 import argparse
 

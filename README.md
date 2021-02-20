@@ -16,6 +16,11 @@ Ejecutando el script **img2txt.py** con diferentes valores para *mode*, obtendre
 
 ## Imagen a imagen
 Ejecutando el script **img2img_color.py** o **img2img.py** con diferentes valores para *background* y *mode*, obtenemos las siguientes salidas:
+
+```
+python img2img_color.py --input "./demo/input.jpg" --output "./demo/output_100.jpg" --num_cols 100
+```
+
 <p align="center">
   <img src="demo/input.jpg" width=400><br/>
   <i>Imagen de entrada</i>
